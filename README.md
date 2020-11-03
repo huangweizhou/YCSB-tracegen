@@ -15,3 +15,7 @@ bin/ycsb run rocksdb -s -P workloads/workloadc -p rocksdb.dir=/tmp/ycsb
 
 #### For simplicity:
 ./ycsb.sh
+
+### output:
+test1.txt for warmfile
+test2.txt for testfile
